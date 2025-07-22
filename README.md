@@ -2,16 +2,6 @@
 
 A simple, user-friendly desktop application to generate secure passwords using a mix of letters, numbers, and symbols. Built with Python and Tkinter.
 
-## 🖼️ Screenshot
-
-*(Optional: Add a screenshot here by uploading it to the repo and linking it like this)*
-
-```bash
-![App Screenshot](screenshot.png)
-```
-
----
-
 ## 🚀 Features
 
 - Generate **easy** or **strong** passwords instantly
